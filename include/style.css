@@ -1,0 +1,30 @@
+nav.navbar
+{
+    /* margin-bottom: 0px; */
+    position: fixed;
+    width: 100%;
+    top: 0;
+    height: 7vh;
+
+}
+nav.navbar div
+{
+    background-color: #222;
+    border-color: #080808;
+
+}
+
+.intro {
+    width: 100%;
+    margin: 7.5vh 0;
+    padding: 30vh 1%;
+    height: 90vh;
+    background-color: #aaa;
+}
+
+.scroller {
+    width: 100%;
+    padding: 5% 1%;
+    margin: 2% 0;
+    background-color: #1f9;
+}
