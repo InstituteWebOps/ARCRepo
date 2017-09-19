@@ -5,6 +5,10 @@
     <h1>Alumni Relations Cell</h1>
     <h3>International &amp; Alumni Relations Student Council<br> IIT Madras</h3>
 </div>
-<div class="scroller"></div>
-<div class="scroller"></div>
+<div class="scroller">
+    <h2 class="text-center">Events</h2>
+</div>
+<div class="scroller">
+    <h2 class="text-center">Initiatives</h2>
+</div>
 <?php require_once('components/footer.php'); ?>
