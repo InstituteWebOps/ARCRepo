@@ -23,10 +23,10 @@ nav.navbar div
 
 .scroller {
     width: 100%;
-    padding: 1vh 1%;
+    padding: 1vh 0;
     margin: 2% 0;
     height: 40vh;
-    background-color: #1f9;
+    background-color: #ccd;
 }
 
 .scroller h2
@@ -37,6 +37,12 @@ nav.navbar div
     border-style: solid;
     border-color: grey;
 
+}
+
+.strip {
+    height: 28vh;
+    background-color: #1f9;
+    
 }
 ::-webkit-scrollbar-track
 {

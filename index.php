@@ -7,8 +7,10 @@
 </div>
 <div class="scroller">
     <h2 class="text-center">Events</h2>
+    <div class="strip"></div>
 </div>
 <div class="scroller">
     <h2 class="text-center">Initiatives</h2>
+    <div class="strip"></div>
 </div>
 <?php require_once('components/footer.php'); ?>
